@@ -1,0 +1,21 @@
+#slogan {
+	font-style:italic;
+}
+
+body{
+
+	background:yellow;
+}
+
+h1{
+
+	font-size: 40px;
+	color:#000;
+	Background:blue;
+	
+}
+.list{
+	margin: 20px;
+	padding: 20px;
+	background-color: green;
+}
