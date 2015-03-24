@@ -1,0 +1,27 @@
+#slogan {
+	font-style:italic;
+}
+
+body{
+
+	background:#ffffff;
+	font-family: 'Lora', serif;
+}
+
+h1{
+
+	font-size: 40px;
+	color:#000;
+	
+	
+}
+.list{
+	margin: 20px;
+	padding: 20px;
+	background-color:#E0E0EB;
+	font-family: 'Droid Sans', sans-serif;
+}
+#ohrid{
+	height:400px;
+	width:400px;
+}
