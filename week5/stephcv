@@ -17,8 +17,22 @@
 
 				<a href="index.html">Home</a>
 				<a href="about.html">About</a>
-				<a href+"#">CV</a>
+				<a href="stephcv.html">CV</a>
 			</nav>
+
+			<div id="highlights">
+				<ul>
+					<li>Why Stephanie is great</li>
+					<li>Why Stephanie is great</li>
+					<li>Why Stephanie is great</li>
+					<li>Why Stephanie is great</li>
+					<li>Why Stephanie is great</li>
+					
+				</ul>
+
+
+
+
 
 			
 

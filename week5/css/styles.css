@@ -12,6 +12,7 @@
 
 .thumb{
 	width:200px;
+	height:150px;
 	margin:20px;
 	
 }
@@ -72,7 +73,7 @@ nav{
 #address{
 	
 	font-size: 16px;
-	line-height:.8em;
+	line-height: .2em;
 	margin-left: 50px;
 }
 
@@ -95,6 +96,27 @@ p{
 
 }
 
+.ipsum{
+	margin: 10px;
+	padding: 10px;
+	letter-spacing: .8em;
+}
 
+#resume{
+	margin:20px;
+	padding: 10px;
+
+}
+
+h3{
+	font-size: 24px;
+	font-family: lato sans-serif;
+	color:#525266;
+}
+
+a:hover{
+	color:#339933;
+
+}
 
 
