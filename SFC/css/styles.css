@@ -1,0 +1,106 @@
+
+a{
+	font-size:1em;
+	margin: 5px 0 0 0;
+	padding: 0 2%;
+	display:block;
+	width: 12.66%;
+	float:left;
+	font-family: 'Walter Turncoat', cursive;
+	background: #e64f32;	
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+
+}
+#wrapper{
+	width:1080px;
+	margin-right: auto;
+	margin-left: auto;
+}	
+
+
+body{
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	color: #1f4667;
+}	
+
+
+#sailimage{
+	width: 100%;
+	text-align:center;
+	margin:0;
+}
+.textbox{
+		width: 30%;
+		float:left;
+		margin: 0 .25em .25em 0;
+		padding:.5em;
+		text-align: center;
+		line-height: 1.2em;
+		
+}
+.icon{
+		width: 100px;
+		text-align: center;
+		padding:.5em;
+		
+}
+#logo{
+	width:150px;
+	
+}	
+#homeboxes{
+	background: #fff9f1;
+
+}
+footer{
+	clear:both;
+	font-size: .8em;
+	margin-top: 1.2em;
+	background: #e64f32;
+	color: #fff;
+	line-height: 1.4em;
+
+}
+#address{
+	margin-left: 1.2em;
+}
+
+@media only screen and (max-width: 768px) {
+
+	#wrapper {
+		width: 100%;
+	}
+	
+	a {
+		font-size:.8em;
+		float:none;
+		width:auto;
+		padding: .5em;
+	}
+	.textbox{
+		width: 95%;
+		float:none;
+		font-size: .7em
+	}
+
+	#homeimage{
+		padding-top:.5em;
+	}
+	.icon{
+		width:50px;
+	}
+
+	#sailimage{
+		width:100%;
+	}
+
+	#logo{
+		width: 100px;
+	}
+
+	
+}
+	
